@@ -1,7 +1,3 @@
-// Rubiks Cube 2
-// Daniel Shiffman
-// https://thecodingtrain.com/CodingChallenges/142.2-rubiks-cube.html
-// https://youtu.be/EGmVulED_4M
 
 class Face {
   PVector normal;
