@@ -3,7 +3,9 @@
 
 void keyPressed(){
   if(key == ' '){
-    started = true;
+     currentMove.start();
+    //started = true;
+    //counter = 0;
   }
 }
 
